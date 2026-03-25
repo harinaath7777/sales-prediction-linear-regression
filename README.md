@@ -92,12 +92,6 @@ This project was completed to fulfill the requirement of:
 RISE Internship Program  
 Tamizhan Skills – Machine Learning Domain
 
-✔ One project completed  
-✔ Report generated  
-✔ GitHub repository created  
-✔ Output file generated  
-
-
 ---
 
 ## 👨‍💻 Author
